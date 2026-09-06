@@ -1,3 +1,4 @@
+<img width="580" height="328" alt="{D3CFAF21-3879-4F33-98A4-E93C7AF11077}" src="https://github.com/user-attachments/assets/9cbf54e1-fb23-4e6e-8cba-0109feeaee5f" />
 # Nigerian SME Business Analysis
 
 ## Project Overview
